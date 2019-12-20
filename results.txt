@@ -1,0 +1,22 @@
+Gender: Male
+Semester: Spring
+Program: COMM
+1- Strongly Agree
+2- Strongly Agree
+3- Agree
+4- Strongly Agree
+5- Agree
+6- Disagree
+7- Neutral
+8- Disagree
+9- Neutral
+10- Agree
+11- Agree
+12- Neutral
+13- Neutral
+14- Neutral
+15- Agree
+16- Neutral
+17- Agree
+18- Neutral
+19- Strongly Agree
