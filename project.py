@@ -99,7 +99,7 @@ for i in contours:
             elif(box[0]<400):
                 cv2.putText(enhanced,"MANF", (box[0],box[1]), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 255))
                 f.write("Program: MANF\n")
-        elif(box[0]<152):
+        elif(box[1]<152):
             if(box[0]<170):
                 cv2.putText(enhanced,"LAAR", (box[0],box[1]), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 255))
                 f.write("Program: LAAR\n")
